@@ -83,3 +83,8 @@
 .product_link_card:hover {
   transform: scale(1.1); 
 }
+
+.product_link_card h5 {
+  font-size: 14px;
+  font-weight: 600;
+}
