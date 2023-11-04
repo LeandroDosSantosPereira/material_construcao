@@ -66,3 +66,8 @@
   font-family: var(--font_family);
   color: #6f6f6f;
 }
+
+/* Product link  */
+.product_link i{
+  margin-top: 5%;
+}
