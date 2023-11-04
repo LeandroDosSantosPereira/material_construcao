@@ -1,0 +1,36 @@
+/* Defina a fonte personalizada */
+:root {
+  --font_family: 'Encode Sans', sans-serif;
+}
+
+/* Defina a classe de estilo personalizada */
+.custom-dropdown-link {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 52px;
+    padding: 0 20px;
+    font-size: 1.125rem;
+    font-weight: 500;
+    text-align: center;
+    cursor: pointer;
+    color: var(--color_header_nav_text);
+    z-index: 2;
+    transition: ease-out 0.2s;
+    font-family: var(--font_family);
+}
+
+.custom-logo {
+	max-width: 100px; /* Ajuste o tamanho conforme necessário */
+	height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.top-bar {
+  font-family: var(--font_family);
+  font-size: .75rem;
+  font-weight: 600;
+  margin: 5px;
+}
