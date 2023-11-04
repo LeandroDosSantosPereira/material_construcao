@@ -75,4 +75,11 @@
 
 .product_link_card {
   text-decoration: none !important;
+  transition: transform 0.3s;
+  background-color: #f5f5f5 !important;
+  border: solid 0;
+}
+
+.product_link_card:hover {
+  transform: scale(1.1); 
 }
