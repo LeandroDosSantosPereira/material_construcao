@@ -70,4 +70,9 @@
 /* Product link  */
 .product_link i{
   margin-top: 5%;
+  text-decoration: none !important;
+}
+
+.product_link_card {
+  text-decoration: none !important;
 }
