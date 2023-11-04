@@ -1,9 +1,9 @@
-/* Defina a fonte personalizada */
+/* variables */
 :root {
   --font_family: 'Encode Sans', sans-serif;
 }
 
-/* Defina a classe de estilo personalizada */
+/* drop menu */
 .custom-dropdown-link {
     position: relative;
     display: flex;
@@ -21,6 +21,12 @@
     font-family: var(--font_family);
 }
 
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: #f5f5f5 !important;
+}
+
+/* logo */
 .custom-logo {
 	max-width: 100px; /* Ajuste o tamanho conforme necessário */
 	height: auto;
@@ -28,9 +34,35 @@
   margin-bottom: 20px;
 }
 
+/* bar top menu */
 .top-bar {
   font-family: var(--font_family);
   font-size: .75rem;
   font-weight: 600;
   margin: 5px;
+}
+
+/* icons */
+.custom-icons{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.custom-icons i {
+  font-size: 3.8125rem;
+  color: red;
+}
+
+.custom-icons span {
+  font-size: .8125rem;
+  font-weight: 600;
+  display: block;
+  font-family: var(--font_family);
+  color: #565656;
+}
+
+.custom-icons p {
+  font-size: 0.8125rem;
+  font-family: var(--font_family);
+  color: #6f6f6f;
 }
