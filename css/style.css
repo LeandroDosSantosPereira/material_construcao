@@ -43,7 +43,7 @@
 }
 
 /* icons */
-.custom-icons{
+.custom-icons {
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -94,4 +94,31 @@
   font-size: 1.75rem;
   font-weight: 700; 
   color: #1a1a1a;
+}
+
+.cemente-card {
+  border: solid 0 !important;
+}
+
+
+.cemente-card p {
+  flex-grow: 1;
+  max-height: 40px;
+  font-size: .875rem;
+  font-weight: 500;
+  font-family: var(--font_family);
+  color: #565656;
+}
+
+.cemente-card button {
+  display: block;
+  font-size: 1.375rem;
+  font-weight: 600; 
+}
+
+.cement-price-description {
+  font-size: 0.8125rem !important;
+  font-family: var(--font_family) !important;
+  color: #6f6f6f !important;
+  margin-top: 2%;
 }
