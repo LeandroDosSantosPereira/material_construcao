@@ -1,0 +1,75 @@
+{
+    "produto": [
+      {
+        "nome": "Impermeabilizante Sika",
+        "imagem": "impermeabilizante_sika.jpg",
+        "descricao": "Impermeabilizante de alta qualidade da marca Sika, ideal para qualquer tipo de construção.",
+        "preco_a_vista": "R$ 120,00",
+        "preco_parcelado": "6x de R$ 20,00"
+      },
+      {
+        "nome": "Impermeabilizante Quartzolit",
+        "imagem": "impermeabilizante_quartzolit.jpg",
+        "descricao": "Impermeabilizante da marca Quartzolit, resistente e durável.",
+        "preco_a_vista": "R$ 100,00",
+        "preco_parcelado": "10x de R$ 10,00"
+      },
+      {
+        "nome": "Impermeabilizante Vedacit",
+        "imagem": "impermeabilizante_vedacit.jpg",
+        "descricao": "Impermeabilizante da marca Vedacit, perfeito para acabamentos e revestimentos.",
+        "preco_a_vista": "R$ 80,00",
+        "preco_parcelado": "4x de R$ 20,00"
+      },
+      {
+        "nome": "Impermeabilizante Denver",
+        "imagem": "impermeabilizante_denver.jpg",
+        "descricao": "Impermeabilizante da marca Denver para concreto e fundações.",
+        "preco_a_vista": "R$ 90,00",
+        "preco_parcelado": "9x de R$ 10,00"
+      },
+      {
+        "nome": "Impermeabilizante Santa Luzia",
+        "imagem": "impermeabilizante_santa_luzia.jpg",
+        "descricao": "Impermeabilizante da marca Santa Luzia, proporciona um ótimo isolamento térmico.",
+        "preco_a_vista": "R$ 85,00",
+        "preco_parcelado": "5x de R$ 17,00"
+      },
+      {
+        "nome": "Impermeabilizante Dryko",
+        "imagem": "impermeabilizante_dryko.jpg",
+        "descricao": "Impermeabilizante da marca Dryko de secagem rápida e acabamento fosco.",
+        "preco_a_vista": "R$ 95,00",
+        "preco_parcelado": "6x de R$ 15,83"
+      },
+      {
+        "nome": "Impermeabilizante Axton",
+        "imagem": "impermeabilizante_axton.jpg",
+        "descricao": "Impermeabilizante da marca Axton, ideal para assentamento de cerâmicas.",
+        "preco_a_vista": "R$ 100,00",
+        "preco_parcelado": "5x de R$ 20,00"
+      },
+      {
+        "nome": "Impermeabilizante Rebotec",
+        "imagem": "impermeabilizante_rebotec.jpg",
+        "descricao": "Impermeabilizante da marca Rebotec, resistente à água e ao mofo.",
+        "preco_a_vista": "R$ 110,00",
+        "preco_parcelado": "6x de R$ 18,33"
+      },
+      {
+        "nome": "Impermeabilizante Jaysuing",
+        "imagem": "impermeabilizante_jaysuing.jpg",
+        "descricao": "Impermeabilizante da marca Jaysuing, resistente e fácil de aplicar.",
+        "preco_a_vista": "R$ 105,00",
+        "preco_parcelado": "7x de R$ 15,00"
+      },
+      {
+        "nome": "Impermeabilizante Impercit",
+        "imagem": "impermeabilizante_impercit.jpg",
+        "descricao": "Impermeabilizante da marca Impercit, ideal para cozinhas e banheiros.",
+        "preco_a_vista": "R$ 115,00",
+        "preco_parcelado": "5x de R$ 23,00"
+      }
+    ]
+  }
+  
