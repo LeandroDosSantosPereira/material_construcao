@@ -1,0 +1,37 @@
+.card {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card img {
+    max-height: 400px; 
+    object-fit: cover;
+}
+
+.card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.card-text {
+    flex-grow: 1;
+    max-height: none; /* Remover a limitação de altura */
+    overflow: hidden;
+}
+
+.btn {
+    margin-top: auto;
+}
+
+.card-img-top:hover {
+transform: scale(1.1);
+transition: transform 0.3s ease-in-out;
+}
+
+.custom-margin-bottom {
+margin-bottom: 2% !important;
+}
+

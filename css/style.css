@@ -2,6 +2,9 @@
 :root {
   --font_family: 'Encode Sans', sans-serif;
 }
+body {
+  font-family: var(--font_family);
+}
 
 /* drop menu */
 .custom-dropdown-link {
@@ -121,4 +124,13 @@
   font-family: var(--font_family) !important;
   color: #6f6f6f !important;
   margin-top: 2%;
+}
+
+.institutional a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-icon i {
+  font-size: 25px;
 }
