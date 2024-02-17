@@ -29,9 +29,9 @@
         "preco_parcelado": "3x de R$ 50,00"
       },
       {
-        "nome": "Armário para Banheiro Itatiaia",
-        "imagem": "armario_banheiro_itatiaia.jpg",
-        "descricao": "Armário para banheiro da marca Itatiaia, oferece ótimo espaço para organização.",
+        "nome": "Balcão de Cozinha Itataia",
+        "imagem": "balcão_banheiro_itatiaia.jpg",
+        "descricao": "Balcão para cozinha da marca Itatiaia, oferece ótimo espaço para organização.",
         "preco_a_vista": "R$ 350,00",
         "preco_parcelado": "7x de R$ 50,00"
       },
@@ -55,21 +55,7 @@
         "descricao": "Piso para banheiro da marca Portobello, resistente e fácil de limpar.",
         "preco_a_vista": "R$ 50,00",
         "preco_parcelado": "5x de R$ 10,00"
-      },
-      {
-        "nome": "Revestimento para Banheiro Eliane",
-        "imagem": "revestimento_banheiro_eliane.jpg",
-        "descricao": "Revestimento para banheiro da marca Eliane, adiciona um toque de sofisticação ao ambiente.",
-        "preco_a_vista": "R$ 60,00",
-        "preco_parcelado": "6x de R$ 10,00"
-      },
-      {
-        "nome": "Luminária para Banheiro Taschibra",
-        "imagem": "luminaria_banheiro_taschibra.jpg",
-        "descricao": "Luminária para banheiro da marca Taschibra, proporciona uma iluminação agradável e acolhedora.",
-        "preco_a_vista": "R$ 80,00",
-        "preco_parcelado": "4x de R$ 20,00"
-      }
+      }      
     ]
   }
   
