@@ -24,7 +24,15 @@
 
 .btn {
     margin-top: auto;
+    background-color: #04457e;
+    border: 1px solid #04457e;  
+    transition: background-color 0.3s, border-color 0.3s; /* adiciona uma transição suave */
 }
+
+.btn:hover {
+    background-color: #2c68b9; /* cor mais clara de azul */
+    border-color: #2c68b9; /* cor da borda também alterada */
+  }
 
 .card-img-top:hover {
 transform: scale(1.1);
