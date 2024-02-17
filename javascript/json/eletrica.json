@@ -1,16 +1,16 @@
 {
     "produto": [
       {
-        "nome": "Material elétrico Soprano",
+        "nome": "Disjuntor Caixa Moldada Soprano",
         "imagem": "material_eletrico_soprano.jpg",
-        "descricao": "Material elétrico de alta qualidade da marca Soprano, ideal para qualquer tipo de construção.",
+        "descricao": "Disjuntor de alta qualidade da marca Soprano, ideal para qualquer tipo de construção.",
         "preco_a_vista": "R$ 50,00",
         "preco_parcelado": "5x de R$ 10,00"
       },
       {
-        "nome": "Fios e cabos elétricos Pirelli",
+        "nome": "Fios e cabos elétricos Sil",
         "imagem": "fios_cabos_eletricos_pirelli.jpg",
-        "descricao": "Fios e cabos elétricos da marca Pirelli, resistente e durável.",
+        "descricao": "Fios e cabos elétricos da marca Sil, resistente e durável.",
         "preco_a_vista": "R$ 100,00",
         "preco_parcelado": "10x de R$ 10,00"
       },
@@ -55,21 +55,7 @@
         "descricao": "Fita isolante da marca 3M, resistente à água e ao mofo.",
         "preco_a_vista": "R$ 5,00",
         "preco_parcelado": "1x de R$ 5,00"
-      },
-      {
-        "nome": "Conectores PENZEL",
-        "imagem": "conectores_penzel.jpg",
-        "descricao": "Conectores da marca PENZEL, resistente e fácil de aplicar.",
-        "preco_a_vista": "R$ 15,00",
-        "preco_parcelado": "3x de R$ 5,00"
-      },
-      {
-        "nome": "Chaves elétricas Makita",
-        "imagem": "chaves_eletricas_makita.jpg",
-        "descricao": "Chaves elétricas da marca Makita, ideal para diversas aplicações.",
-        "preco_a_vista": "R$ 100,00",
-        "preco_parcelado": "5x de R$ 20,00"
-      }
+      }      
     ]
   }
   
