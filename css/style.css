@@ -167,3 +167,40 @@ body {
   border-color: #04457e;
   box-shadow: 0 0 0 0.25rem rgba(4, 69, 126, 0.25);
 }
+
+
+/* Estilos para a barra de rolagem */
+::-webkit-scrollbar {
+  width: 12px; /* largura da barra de rolagem */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #fff; /* cor de fundo da barra de rolagem */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #04457e; /* cor da barra de rolagem */
+  border-radius: 6px; /* borda arredondada */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #022c4d; /* cor da barra de rolagem ao passar o mouse */
+}
+
+/* Estilos para a barra de rolagem no Firefox */
+/* Track */
+html {
+  scrollbar-color: #04457e #fff; /* cor da barra de rolagem e cor de fundo */
+}
+
+/* Handle */
+html {
+  scrollbar-width: thin; /* largura da barra de rolagem */
+}
+
+html:hover {
+  scrollbar-width: auto; /* largura da barra de rolagem ao passar o mouse */
+}
