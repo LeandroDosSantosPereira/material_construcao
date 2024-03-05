@@ -201,6 +201,4 @@ html {
   scrollbar-width: thin; /* largura da barra de rolagem */
 }
 
-html:hover {
-  scrollbar-width: auto; /* largura da barra de rolagem ao passar o mouse */
-}
+
